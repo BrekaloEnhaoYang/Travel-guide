@@ -87,3 +87,5 @@ def analyse_files(path="./"):
 
 if __name__ == "__main__":
     analyse_files()
+
+# here we go
